@@ -1,0 +1,135 @@
+nav > img {
+    max-width: 100px;
+    padding-right: 5px;
+    padding-top: 3px;
+}
+
+nav > a {
+    color: #DD6601;
+    text-decoration-line: none;
+    font-family: sans-serif;
+    font-weight: 700;
+    float: right;
+    vertical-align: middle;
+    margin-top: 10px;
+    padding-right: 15px;
+}
+
+header {
+    background-color: black
+}
+
+.mainImg > img {
+    max-height: 240px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+html {
+    color: #DD6601;
+}
+
+.mainInfo > h2 {
+    text-align: center;
+    color: black;
+    background-color: #DD6601;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 25px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.mainInfo {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 25px;
+}
+
+.menu {
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: black;
+    padding-bottom: 10px;
+    border-bottom: 2px #DD6601 solid;
+    margin-left: 5%;
+    margin-right: 5%
+}
+
+.menu > a {
+    color: #DD6601;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration-line: none;
+}
+
+footer {
+    text-align: center;
+    color: #DD6601;
+    font-family: sans-serif;
+    background-color: black;
+    padding-top: 10px;
+    margin-top: 25px;
+    border-top: 2px #DD6601 solid;
+    margin-left: 5%;
+    margin-right: 5%
+}
+
+form {
+    background-color: #DD6601;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 550;
+    padding: 20px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+form > textarea {
+    margin: 5px;
+    color: black;
+}
+
+form > input[type="submit"] {
+    font-size: 20px;
+    color: #DD6601;
+    background: black;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.mockup > img {
+    max-width: 90%;
+}
+
+ul > li {
+    list-style-type: none;
+}
+
+
+.productMockup > img {
+    max-width: 50%;
+}
+
+hr {
+    border: solid #DD6601;
+    border-radius: 10px
+}
+
+.included {
+    text-align: center;
+    color: black;
+    background-color: #DD6601;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 25px;
+    padding: 10px;
+    font-family: sans-serif;
+}
